@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Temperarute_Sensing_Module.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Temperarute_Sensing_Module.SchDoc|Designator=Interace_PT100|SchDesignator=Interace_PT100|FileName=Interace_PT100.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Interace_PT100.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Temperarute_Sensing_Module.SchDoc|Designator=Interface_DS18B20|SchDesignator=Interface_DS18B20|FileName=Interface_DS18B20.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Interface_DS18B20.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
